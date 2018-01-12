@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Att_1")]
+[assembly: AssemblyTitle("ConsoleApp4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Att_1")]
+[assembly: AssemblyProduct("ConsoleApp4")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("e296ef11-f33f-43c6-8d0f-cbacfb7e2eb7")]
+[assembly: Guid("0a63c430-53bc-47c9-b83d-ebc8d43fb783")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

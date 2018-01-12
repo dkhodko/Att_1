@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E296EF11-F33F-43C6-8D0F-CBACFB7E2EB7}</ProjectGuid>
+    <ProjectGuid>{0A1FB28A-8DA9-4374-932B-E39247998FB0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Att_1</RootNamespace>
-    <AssemblyName>Att_1</AssemblyName>
+    <RootNamespace>_2_1_28</RootNamespace>
+    <AssemblyName>2_1_28</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1_28_1.cs" />
+    <Compile Include="2_1_28.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
